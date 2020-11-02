@@ -4,10 +4,12 @@
 
 #### 더 이상 머리아프게 계산하지 말자!
 
-<img src = "https://github.com/geunseok95/Scheduler/blob/master/readmefile/empty_main.png?raw=true" width="40%">
-![add](https://github.com/geunseok95/Scheduler/blob/master/readmefile/add.png?raw=true){: width="150" height="300"}
-![list](https://github.com/geunseok95/Scheduler/blob/master/readmefile/list.png?raw=true){: width="150" height="300"}
-![case](https://github.com/geunseok95/Scheduler/blob/master/readmefile/case.png?raw=true){: width="150" height="300"}
-![case2](https://github.com/geunseok95/Scheduler/blob/master/readmefile/case2.png?raw=true){: width="150" height="300"}
-![case3](https://github.com/geunseok95/Scheduler/blob/master/readmefile/case3.png?raw=true){: width="150" height="300"}
-![case4](https://github.com/geunseok95/Scheduler/blob/master/readmefile/case3.png?raw=true){: width="150" height="300"}
+<img src = "https://github.com/geunseok95/Scheduler/blob/master/readmefile/empty_main.png?raw=true" width="20%">
+<img src = "https://github.com/geunseok95/Scheduler/blob/master/readmefile/add.png?raw=true" width="20%">
+<img src = "https://github.com/geunseok95/Scheduler/blob/master/readmefile/list.png?raw=true" width="20%">
+<img src = "https://github.com/geunseok95/Scheduler/blob/master/readmefile/case.png?raw=true" width="20%">
+<img src = "https://github.com/geunseok95/Scheduler/blob/master/readmefile/case.png?raw=true" width="20%">
+<img src = "https://github.com/geunseok95/Scheduler/blob/master/readmefile/case2.png?raw=true" width="20%">
+<img src = "https://github.com/geunseok95/Scheduler/blob/master/readmefile/case3.png?raw=true" width="20%">
+<img src = "https://github.com/geunseok95/Scheduler/blob/master/readmefile/case4.png?raw=true" width="20%"
+
