@@ -4,7 +4,7 @@
 
 #### 더 이상 머리아프게 계산하지 말자!
 
-![empty_main](https://github.com/geunseok95/Scheduler/blob/master/readmefile/empty_main.png?raw=true)
+<img src = "https://github.com/geunseok95/Scheduler/blob/master/readmefile/empty_main.png?raw=true" width="40%">
 ![add](https://github.com/geunseok95/Scheduler/blob/master/readmefile/add.png?raw=true){: width="150" height="300"}
 ![list](https://github.com/geunseok95/Scheduler/blob/master/readmefile/list.png?raw=true){: width="150" height="300"}
 ![case](https://github.com/geunseok95/Scheduler/blob/master/readmefile/case.png?raw=true){: width="150" height="300"}
